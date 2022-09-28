@@ -1,4 +1,6 @@
 # TranslationManager
+TranslationManager developed by Jeroen Geradts is given in licence in accordance to the Creative Commons Attribution-ShareAlike 4.0 International-licence
+
 Apply edits from previous version to a new language file of Kaltura Media Space (KMS)
 
 This script will apply edits from a previous language file (default.po) of KMS to a new version.
